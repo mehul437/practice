@@ -1,0 +1,124 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.parent{
+    margin-left: 480px;
+    margin-top: 22px;
+    background-color:white;
+    box-shadow: gray 5px 5px 5px;
+    height: 585px;
+    width: 400px;
+    border-radius: 24px;
+    
+}
+.ima{
+    
+    width:400px;
+    height: 173px;   
+    
+}
+img{
+    height: 173px;
+    width: 400px;
+   border-top-left-radius:24px ;
+   border-top-right-radius:24px ; 
+    
+}
+.order{
+    height: 170px;
+    
+    width: 350px;
+    margin-left: 18px;
+}
+p{
+    font-size: 19px;
+    color:darkslategray;
+    padding-left: 20px;
+    
+}
+h2{
+    padding-left: 80px;
+    
+
+}
+.price{
+    height: 92px;
+    width: 350px;
+    
+    background-color: rgb(227, 232, 238); 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 18px;
+    border-radius:15px ;
+    box-sizing: border-box;
+}
+.ico{
+    
+    height: 38px;
+    width: 38px;
+    padding-left: 9px;
+    padding-top: 9px;
+    border-radius: 50%;
+    background-color: rgb(200, 209, 223);
+    box-sizing: border-box; 
+    margin-top: 24px;
+
+}
+span{
+    font-size: 19px;
+    color:rgb(40, 66, 66);
+    font-weight: 400;
+
+}
+.anu{
+    font-size: 19px;
+    font-weight: bolder;
+    color: black;
+}
+.annual{
+    
+    height: 90px;
+    width:150px ;
+}
+.lin{
+    height: 35px;
+    width: 50px;
+    
+    font-weight: bold;
+    margin-top: 24px;
+}
+.pro{
+    height:35px;
+    width: 280px;
+    background-color:blue; 
+    margin-top: 24px;
+    margin-left: 57px;
+    border-radius: 8px;
+    box-shadow: indigo 3px 3px 3px;
+    
+    
+}
+.an{
+    padding-left: 74px;
+     color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 17px;
+}
+.low{
+        height:35px;
+        width: 280px;
+        background-color: white; 
+        margin-top: 20px;
+        margin-left: 57px;
+        border-radius: 8px;
+}
+.can{
+    padding-left: 109px;
+     color:blue;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 17px;
+}
